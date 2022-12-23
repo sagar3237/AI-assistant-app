@@ -1,2 +1,2 @@
-# AI Personal Convrsational Apllication
+Snake and Food Game Clone
 
